@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\JayParmar\\Desktop\\dotnet\\BlazorHelloWorld2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\JayParmar\\Desktop\\dotnet\\BlazorHelloWorld2\\obj\\Debug\\net8.0\\compressed\\547c00ndei.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\JayParmar\\Desktop\\dotnet\\BlazorHelloWorld2\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorHelloWorld2.styles.css",
+      "PackagePath": "staticwebassets\\BlazorHelloWorld2.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\JayParmar\\Desktop\\dotnet\\BlazorHelloWorld2\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\JayParmar\\Desktop\\dotnet\\BlazorHelloWorld2\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\JayParmar\\Desktop\\dotnet\\BlazorHelloWorld2\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\JayParmar\\Desktop\\dotnet\\BlazorHelloWorld2\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\JayParmar\\Desktop\\dotnet\\BlazorHelloWorld2\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\JayParmar\\Desktop\\dotnet\\BlazorHelloWorld2\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\JayParmar\\Desktop\\dotnet\\BlazorHelloWorld2\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorHelloWorld2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorHelloWorld2.props",
+      "PackagePath": "build\\BlazorHelloWorld2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorHelloWorld2.props",
+      "PackagePath": "buildMultiTargeting\\BlazorHelloWorld2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorHelloWorld2.props",
+      "PackagePath": "buildTransitive\\BlazorHelloWorld2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
