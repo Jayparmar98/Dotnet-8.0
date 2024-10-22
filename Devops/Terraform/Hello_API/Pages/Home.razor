@@ -1,0 +1,24 @@
+﻿@page "/"
+@inject HttpClient Http
+
+<h1>API Test</h1>
+
+<p>@message</p>
+
+@code {
+    private string message = "Loading...";
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            // Replace with your API URL
+            var apiUrl = "http://172.16.0.5:8010/api/test";
+            message = await Http.GetStringAsync(apiUrl);
+        }
+        catch (Exception ex)
+        {
+            message = $"Error: {ex.Message}";
+        }
+    }
+}
